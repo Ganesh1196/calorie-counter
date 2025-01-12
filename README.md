@@ -1,2 +1,2 @@
 # calorie-counter
-HTML CSS JS project
+This Calorie Counter project is made using HTML CSS JavaScript
